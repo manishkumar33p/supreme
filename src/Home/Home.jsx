@@ -9,10 +9,9 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "./Home.css";
 import {
- FaFacebookF,
- FaInstagram,
- FaLinkedinIn,
- FaYoutube
+ 
+ FaInstagram
+ 
 } from "react-icons/fa";
 
 import kitchenHero from "../kitchenHero.avif";
