@@ -1532,22 +1532,22 @@ return (
 
       <div className="social-icons">
 
-        <a href="https://www.instagram.com/marvinteriors/">
+        <a href="">
           <i className="fab fa-facebook-f"></i>
            <FaFacebookF />
         </a>
 
-        <a href="https://www.instagram.com/marvinteriors/">
+        <a href="https://www.instagram.com/supreme_interiorsolutions/">
           <i className="fab fa-instagram"></i>
            <FaInstagram />
         </a>
 
-        <a href="https://www.instagram.com/marvinteriors/">
+        <a href="">
           <i className="fab fa-linkedin-in"></i>
           <FaLinkedinIn />
         </a>
 
-        <a href="https://www.instagram.com/marvinteriors/">
+        <a href="">
           <i className="fab fa-youtube"></i>
           <FaYoutube />
         </a>
