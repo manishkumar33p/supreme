@@ -1532,25 +1532,25 @@ return (
 
       <div className="social-icons">
 
-        <a href="">
+        {/* <a href="">
           <i className="fab fa-facebook-f"></i>
            <FaFacebookF />
-        </a>
+        </a> */}
 
         <a href="https://www.instagram.com/supreme_interiorsolutions/">
           <i className="fab fa-instagram"></i>
            <FaInstagram />
         </a>
 
-        <a href="">
+        {/* <a href="">
           <i className="fab fa-linkedin-in"></i>
           <FaLinkedinIn />
-        </a>
+        </a> */}
 
-        <a href="">
+        {/* <a href="">
           <i className="fab fa-youtube"></i>
           <FaYoutube />
-        </a>
+        </a> */}
 
       </div>
 
