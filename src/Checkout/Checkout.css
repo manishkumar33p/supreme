@@ -1,0 +1,30 @@
+.remove-btn {
+  background: #dc3545;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.remove-btn:hover {
+  opacity: 0.9;
+}
+
+
+
+
+.clear {
+  background: #dc3545;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 8px;
+}
+
+.clear:hover {
+  opacity: 0.9;
+}
