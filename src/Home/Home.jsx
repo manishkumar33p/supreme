@@ -97,7 +97,7 @@ const calculateEstimate = () => {
 // };
 
 const handleContactSubmit = () => {
-  const message = `Hello NISS Technology,
+  const message = `Hello Supreme Interiors Solutions,
 
 New Enquiry:
 
@@ -1463,7 +1463,7 @@ return (
     </p>
 
     <div className="contact-info">
-      <p>📞 +91 7065696555 , 9310019189</p>
+      <p>📞 +91 9310019189, 7065696555 , </p>
       <p>📧 karan.swain@gmail.com</p>
       <p>📍 G-32,site-4 ,Near Grand vanice mall,greater noida, Uttar Pradesh</p>
       <p>🕒 Mon - Sat : 9:00 AM - 7:00 PM</p>
@@ -1585,7 +1585,7 @@ return (
     <div className="footer-box">
       <h3>Contact Us</h3>
 
-      <p>📞 +91 9667712837</p>
+      <p>📞 +91 9310019189</p>
        <p>📧 karan.swain@gmail.com</p>
       <p>📍 G-32,site-4 ,Near Grand vanice mall,greater noida, Uttar Pradesh</p>
     </div>
